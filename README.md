@@ -1,8 +1,12 @@
 # deploying-apache2
 ابتدا apache2 رو نصب میکنیم   
-```apt update && apt install apache2 ```   
+```
+apt update && apt install apache2 
+```   
 برای بررسی عملکرد کار وب سرور باید ابزار curl رو نصب کرد   
-```apt install curl ```   
+```
+apt install curl 
+```   
  سپس دایرکتوری به اسم 
    
  domain    
